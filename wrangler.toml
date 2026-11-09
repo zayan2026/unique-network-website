@@ -1,0 +1,10 @@
+name = "unique-network-provider-limited"
+compatibility_date = "2026-10-15"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "unique-network-db"
+database_id = "REPLACE_WITH_D1_DATABASE_ID"
+
+[vars]
+# Set ADMIN_BOOTSTRAP_SECRET as a secret via wrangler secret put

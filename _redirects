@@ -1,0 +1,5 @@
+/login /login.html 200
+/signup /signup.html 200
+/dashboard /dashboard.html 200
+/admin/login /admin-login.html 200
+/admin/dashboard /admin-dashboard.html 200
